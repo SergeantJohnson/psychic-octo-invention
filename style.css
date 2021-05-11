@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+}
+
+
+.heading{
+    width: 100%;
+    text-align: left;
+    
+}
+
+.heading h4{
+    display: inline;
+    margin-top:5px !important;
+}
+
+.heading button{
+    float: right;
+    border-top: ridge #fc0303 1px;
+    border-left: ridge #03fc31 1px;
+    border-right: ridge #03fcf8 1px;
+    border-bottom: ridge #031cfc 1px;   
+}
+
+
+#startgame,#status,#restart{
+    font-size: 22px;
+}
